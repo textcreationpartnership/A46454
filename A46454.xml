@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>K. James's opinion of a King, of a tyrant, and of the English laws, rights, and priviledges in two speeches, the first to the Parliament, 1603, the second, 1609.</title>
+            <author>James I, King of England, 1566-1625.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46454</idno>
+            <idno type="STC">Wing J141</idno>
+            <idno type="STC">ESTC R10840</idno>
+            <idno type="EEBO-CITATION">13294682</idno>
+            <idno type="OCLC">ocm 13294682</idno>
+            <idno type="VID">98870</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46454)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98870)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 459:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>K. James's opinion of a King, of a tyrant, and of the English laws, rights, and priviledges in two speeches, the first to the Parliament, 1603, the second, 1609.</title>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Divine right of kings --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb n="1" facs="tcp:98870:1"/>
+            <head>
+               <hi>K. Iames's Opinion</hi> OF A KING, of a TYRANT, AND OF <hi>The Engliſh Laws, Rights, and Priviledges.</hi> In Two SPEECHES, The Firſt to the PARLIAMENT, 1603, the Second, 1609.</head>
+            <p>
+               <hi>In his Speech to the</hi> Parliament <hi>1603, he expreſſeth himſelf thus:</hi>
+            </p>
+            <p>I Do acknowledge that the ſpecial and greateſt point of difference that is betwixt a rightful King and an uſurping Tyrant, is in this: That whereas the proud and ambitious Tyrant doth think his King<g ref="char:EOLhyphen"/>dom and People, are only ordained for ſatisfaction of his Deſires, and unreaſonable Appetites; <hi>The righteous and juſt King doth by the contrary acknowledge himſelf to be ordained for the procuring of the Wealth and Proſperity of his People; and that his great and principal worldly Felicity, muſt conſiſt in their Proſperity.</hi> If you be Rich, I cannot be Poor; if you be Happy, I cannot but be Fortunate; and I proteſt your Welfare ſhall ever be my greateſt Care and Contentment. And that I am a Servant, it is moſt true, that as I am Head and Go<g ref="char:EOLhyphen"/>vernour of all the People in my Dominion, who are my natural Subjects, conſidering them in diſtinct Ranks, ſo if we will take in the People as one Body, <hi>then as the Head is ordained for the Body, and not the Body for the Head; ſo muſt a righteous King know himſelf to be Ordained for his People, and not his People for him.</hi>
+            </p>
+            <p>Wherefore, I will never be aſhamed to confeſs it my <hi>principal Honour to be the great Servant of the Common-wealth;</hi> and ever think the Proſperity thereof to be my greateſt Felicity, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>In his Speech to the Parliament,</hi> March <hi>21. 1609. he expreſſeth himſelf thus:</hi>
+            </p>
+            <p>IN theſe our times we are to diſtinguiſh betwixt the State of Kings in the firſt Original, and between the State of ſetled Kings and Mo<g ref="char:EOLhyphen"/>narchs,
+<pb n="2" facs="tcp:98870:2"/>
+that do at this time Govern in Civil Kingdoms: For even as God during the time of the Old Teſtament, ſpake by Oracles, and wrought by Miracles, yet how ſoon it pleaſed him to ſettle a Church (which was Bought and Redeemed by the Blood of his only Son Chriſt) then was there a Ceſſation of both: He ever after governing his Church and Peo<g ref="char:EOLhyphen"/>ple within the limits of his revealed Will. So in the firſt Original of Kings, whereof ſome had their beginning by <hi>Conqueſt,</hi> and ſome by <hi>E<g ref="char:EOLhyphen"/>lection</hi> of the People, their Wills at that time ſerved for a Law; yet how ſoon Kingdoms began to be ſettled in Civility and Policy, then did Kings ſet down their Minds by Laws, which are properly made by the King only; but at the Rogation of the People, the King's Grant being obtain<g ref="char:EOLhyphen"/>ed thereunto; and ſo the King came to be <hi>Lex loquens,</hi> a ſpeaking Law, after a ſort binding himſelf by a double <hi>Oath</hi> to the obſervation of the <hi>Fundamental Laws</hi> of his Kingdom: Tacitly, as by being a King, and ſo bound to protect as well the People, as the Laws of his Kingdom; and expreſly by his Oath at his Coronation: So as every juſt King in a ſet<g ref="char:EOLhyphen"/>tled Kingdom is bound to obſerve that Paction made to his People by his Laws, in framing his Government agreeable thereunto, according to that Paction which God made with <hi>Noah</hi> after the Deluge: <hi>Hereafter, Seed-time and Harveſt, Summer and Winter, Cold and Heat, Day and Night ſhall not ceaſe, ſo long as the Earth remains. <hi>And therefore a King Governing in a ſettled Kingdom, leaves to be a King, and degenerates into a Tyrant, as ſoon as he leaves off to Rule according to his Laws.</hi>
+               </hi> In which Caſe the King's Conſcience may ſpeak unto him as the poor Wi<g ref="char:EOLhyphen"/>dow ſaid to <hi>Philip</hi> of <hi>Macedon,</hi> Either Govern according to your Law, <hi>aut ne Rex ſis,</hi> or ceaſe to be King; and though no Chriſtian Man ought to allow any Rebellion of People againſt their Prince, yet doth God never leave Kings unpuniſhed when they tranſgreſs theſe Limits. For in that ſame <hi>Pſalm</hi> where God ſaith to Kings, <hi>Vos dii eſtis, Ye are Gods:</hi> He immediately thereafter concludes, <hi>But ye ſhall die like Men:</hi> The high<g ref="char:EOLhyphen"/>er we are placed, the greater ſhall our fall be; <hi>Ut caſus ſic dolor,</hi> as the fall, ſo the grief, the taller the Trees be, the more in danger of the Wind; and the Tempeſt beats ſoreſt upon the higheſt Mountains. <hi>Therefore all Kings that are no Tyrants, or Perju<g ref="char:EOLhyphen"/>red, will be glad to bound themſelves within the limits of their Laws, and they that perſwade them the con<g ref="char:EOLhyphen"/>trary, are Vipers and Peſts both againſt them and the Common-wealth.</hi> For it is a great difference betwixt a King's Government in a ſettled Eſtate, and what Kings in their Origi<g ref="char:EOLhyphen"/>nal Power might do in <hi>Individio vago:</hi> As for my part, I thank
+<pb n="3" facs="tcp:98870:2"/>
+God I have ever given good proof that I never had Intention to the con<g ref="char:EOLhyphen"/>trary: And I am ſure to go to my Grave with that Reputation and Com<g ref="char:EOLhyphen"/>fort, that never King was in all his time more careful to have his Laws duly obſerved, and himſelf to Govern thereafter, than I.</p>
+            <p>That Juſt Kings will ever be willing to declare what they will do, if they will not incur the Curſe of God. I will not be content that my Power be diſputed upon, but I ſhall ever be willing to make the reaſon ap<g ref="char:EOLhyphen"/>pear of all my Doings, and rule my Actions according to the Laws.</p>
+            <p>
+               <hi>And afterwards ſpeaking of the Common Law of</hi> England, <hi>which ſome conceived he contemned, ſaith to this purpoſe:</hi> That as a King he had leaſt cauſe of any Man to diſlike the Common Law; for no Law can be more favourable or advantageous for a King; and extendeth further his Prerogative, than it doth; and for a King of <hi>England</hi> to deſpiſe the Common Law, is to neglect his own Crown. It is true, that no King<g ref="char:EOLhyphen"/>dom in the World, but every one of them hath their own Municipal Laws agreeable to their Cuſtoms, as this Kingdom hath the Common Law. Nay, I am ſo far from diſallowing the Common Law, as I proteſt that if it were in my hand to chuſe a new Law for this Kingdom, I would not only prefer it before any other National Law, but even before the very Judicial Law of <hi>Moſes,</hi> for conveniency to this Kingdom at this time, though in another reſpect I muſt ſay, both our Law, and all Laws elſe are very inferiour to that Judicial Law of God; for no Book nor Law is perfect nor free from corruption, except only the Book and Law of God. And therefore I could wiſh that ſome Corruptions might be purged and cleared in the Common Law, but always by the Advice of Parliaments; for the King with his Parliament here are abſolute, in making or form<g ref="char:EOLhyphen"/>ing any ſort of Laws.</p>
+            <p>Firſt, I could wiſh that it were written in our Vulgar Language <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for now it is an old mixt corrupt Language, only underſtood by Lawyers: Whereas every Subject ought to underſtand the Law under which he lives: ſince it is our Plea againſt the Papiſts, that the Language in God's Ser<g ref="char:EOLhyphen"/>vice ought not to be in an unknown Tongue, according to the Rule in the Law of <hi>Moſes,</hi> that the Law ſhould be written in the Fringes of the Prieſt's Garment, and ſhould be publickly read in the ears of all the Peo<g ref="char:EOLhyphen"/>ple; ſo methinks ought our Law to be made as plain as can be to the People, that the excuſe of Ignorance may be taken from them for conform<g ref="char:EOLhyphen"/>ing themſelves thereunto.</p>
+            <p>Next, our Common Law hath not a ſetled Text, being chiefly ground<g ref="char:EOLhyphen"/>ed upon old Cuſtoms, which you call <hi>Reſponſa Prudentum</hi>—I could wiſh that ſome more certain were ſet down in this caſe by Parliament: for ſince the Reports themſelves are not always ſo binding, but that di<g ref="char:EOLhyphen"/>vers
+<pb n="4" facs="tcp:98870:3" rendition="simple:additions"/>
+times Judges do diſclaim them, and recede from the Judgment of their Predeceſſors: It were good that upon a mature deliberation, the Expoſition of the Law were ſet down by Act of Parliament, and ſuch Reports therein confirmed, as were thought fit to ſerve for Law in all times hereafter, and ſo the People ſhould not depend upon the bare Opi<g ref="char:EOLhyphen"/>nions of Judges, and uncertain Reports.</p>
+            <p>And laſtly, there be in the Law contrary Reports and Precedents; and this corruption doth likewiſe concern the Statutes and Acts of Parlia<g ref="char:EOLhyphen"/>ment, in reſpect there are divers croſs and cuffing Statutes, and ſome ſo penn'd as they may be taken in divers, yea contrary ſences. And therefore would I wiſh both thoſe Statutes and Reports, as well in the Parlia<g ref="char:EOLhyphen"/>ment, as Common Law, to be once materially reviewed and reconciled.</p>
+            <p>And that not only Contrarieties ſhould be ſcraped out of our Books, but that even ſuch Penal Statutes as were made but for the uſe of the time (for breach whereof no Man can be free) which do not now agree with the condition of this our time, might likewiſe be left out of our Books, which under a tyrannous and avaritious King could not be endured.</p>
+            <p>And this Reformation might, we think, be made a worthy work, and well deſerves a Parliament to be ſet of purpoſe for it, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>And as to the point of Grievances tells them,</hi> That there are two ſpecial Cauſes of the Peoples preſenting Grievances to their King in time of Parliament.</p>
+            <p>Firſt, For that the King cannot at other times be ſo well informed of all the Grievances of his People, as in time of Parliament, which is the Repreſentative Body of the whole Realm. Secondly, The Parliament is the higheſt Court of Juſtice, and therefore the fitteſt place where divers natures of Grievances may have their proper Remedy, by the eſtabliſh<g ref="char:EOLhyphen"/>ment of good and wholſome Laws: Wherein he addreſſes himſelf eſpe<g ref="char:EOLhyphen"/>cially to the lower Houſe, who as repreſenting the Body of the People, may as it were both <hi>Opportunè &amp; Inopportune,</hi> in Seaſon, and out of Seaſon; I mean either in Parliament as a Body, or out of Parliament as private Men, preſent your Grievances unto me.—</p>
+            <p>I am not to find fault that you inform your ſelves of the particular Grievances of the People: <hi>Nay I muſt tell you, ye can neither be juſt nor faithful to me, or to your Countries that truſt and employ you, if you do not; for true plaints proceed not from the perſons em<g ref="char:EOLhyphen"/>ployed, but from the Body repreſented, which is the People.</hi> And it may very well be, that many Directions and Commiſſions juſtly given forth by me, may be abuſed in the execution thereof upon the People, and yet I never to receive Information, except it come by your means at ſuch a time as this is.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed for <hi>R. Baldwin,</hi> near the <hi>Black Bull</hi> in the <hi>Old-Baily.</hi> 1689</p>
+         </div>
+      </back>
+   </text>
+</TEI>
